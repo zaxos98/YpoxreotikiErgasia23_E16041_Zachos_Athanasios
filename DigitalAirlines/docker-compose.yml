@@ -1,0 +1,29 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo
+    restart: always
+    container_name: mongodb2
+    ports:
+      - 27017:27017
+    networks:
+      - pliroforiaka_default
+    volumes:
+      - ./mongodb/data:/data/db 
+  
+  flask-service:
+    build:
+      context: ./flask
+    restart: always
+    container_name: flask
+    depends_on:
+      - mongodb
+    ports:
+      - 5000:5000
+    networks:
+      - pliroforiaka_default
+    environment:
+      - "MONGO_HOSTNAME=mongodb2"
+
+networks: 
+  pliroforiaka_default:

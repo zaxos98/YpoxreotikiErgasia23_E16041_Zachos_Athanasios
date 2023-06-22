@@ -1,0 +1,6 @@
+[
+    {"_id": {"$oid": "6468f0201fe9b2e7e92f3658"},"username": "Antonia","last_name": "Arabatzi","email": "ant.ser1@gmail.gr","password": "698","birthday": "29/04/1996","region": "Greece","passport_num": "B3515","is_admin": false,"is_logged": true},
+    {"_id": {"$oid": "6468f98985d2f51bc45918df"},"username": "Thanasis","last_name": "Zaxos","email": "zaxos2998@gmail.com","password": "123456","birthday": "29/04/1998","region": "Greece","passport_num": "B824456","is_admin": true,"is_logged": false},
+    {"_id": {"$oid": "646d02389b954764f88abc7e"},"username": "Vaggelis","last_name": "Karavidas","email": "vagkar@mail.com","password": "123456","birthday": "27/04/1996","region": "Greece","passport_num": "B8246","is_admin": false,"is_logged": false},
+    {"_id": {"$oid": "646d026c9b954764f88abc7f"},"username": "Christos","last_name": "Chatzidamianos","email": "dami@mail.com","password": "123456","birthday": "25/12/1997","region": "Greece","passport_num": "B887246","is_admin": false,"is_logged": false}
+]

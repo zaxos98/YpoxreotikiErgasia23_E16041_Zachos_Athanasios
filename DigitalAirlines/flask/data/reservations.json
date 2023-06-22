@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "646de46b760e6874a79c808f"
+  },
+  "flight_id": "6469aa91c46bbb6eeb53d4aa",
+  "username": "Thanasis1",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de471760e6874a79c8090"
+  },
+  "flight_id": "6469aa91c46bbb6eeb53d4aa",
+  "username": "Thanasis2",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de476760e6874a79c8091"
+  },
+  "flight_id": "6469aa91c46bbb6eeb53d4aa",
+  "username": "Thanasis3",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de47a760e6874a79c8092"
+  },
+  "flight_id": "6469aa91c46bbb6eeb53d4aa",
+  "username": "Thanasis4",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de597b93d079c551da3ae"
+  },
+  "flight_id": "6469aad2c46bbb6eeb53d4ab",
+  "username": "Thanasis4",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de685fd769119961d5b93"
+  },
+  "flight_id": "646b7fa0f914a5f1aa535b34",
+  "username": "Thanasis4",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+},{
+  "_id": {
+    "$oid": "646de6aef97a500c44c8e4d5"
+  },
+  "flight_id": "646b85a0eb3fded11ef57540",
+  "username": "Thanasis4",
+  "last_name": "Zaxos",
+  "passport_num": "B187",
+  "birthday": "29/04/1998",
+  "email": "zaxos2998@gmail.com",
+  "ticket_type": "eco"
+}]

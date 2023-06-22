@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "646b85a0eb3fded11ef57540"
+  },
+  "Airport_Of_Origin": "Amsterdam",
+  "Destination_Airport": "New York",
+  "Date_Of_Flight": "02/9/2023",
+  "Available_Tickets_Eco": 153,
+  "Price_Eco": 23910,
+  "Available_Tickets_Bus": 45,
+  "Price_Bus": 824456
+},{
+  "_id": {
+    "$oid": "646cff94dc26363ef5b77e4c"
+  },
+  "Airport_Of_Origin": "Chicago",
+  "Destination_Airport": "Tokio",
+  "Date_Of_Flight": "02/9/2023",
+  "Available_Tickets_Eco": 53,
+  "Price_Eco": 20,
+  "Available_Tickets_Bus": 145,
+  "Price_Bus": 50
+},{
+  "_id": {
+    "$oid": "646e1b65bd93b43c4a7b6b55"
+  },
+  "Airport_Of_Origin": "Amsterdam",
+  "Destination_Airport": "New York",
+  "Date_Of_Flight": "07/12/2023",
+  "Available_Tickets_Eco": 25,
+  "Price_Eco": 208,
+  "Available_Tickets_Bus": 145,
+  "Price_Bus": 50
+},{
+  "_id": {
+    "$oid": "646e1bc7bd93b43c4a7b6b56"
+  },
+  "Airport_Of_Origin": "Thessaloniki",
+  "Destination_Airport": "Chania",
+  "Date_Of_Flight": "07/12/2023",
+  "Available_Tickets_Eco": 25,
+  "Price_Eco": 208,
+  "Available_Tickets_Bus": 145,
+  "Price_Bus": 50
+}]
