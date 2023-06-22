@@ -30,7 +30,9 @@ docker compose up
 <hr>
 
 <h3>Exaples.</h3>
-
+<br>
+On some endpoint there a field for email. This indicates to database if the user is log in or simple user/administrator.
+<br>
 <pre>
   #Sing Up#
   
